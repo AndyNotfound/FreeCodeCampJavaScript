@@ -1,4 +1,4 @@
-# Free Code Camp JavaScript Algorithm Excersise
+# Free Code Camp JavaScript Algorithm
 This repository is dedicated for FreeCodeCamp JavaScript Algorithms and Data Structures Courses.<br><br>
 In the JavaScript Algorithm and Data Structures Certification, I'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.
 <br><br>
