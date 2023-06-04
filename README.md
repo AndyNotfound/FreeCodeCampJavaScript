@@ -5,3 +5,5 @@ In the JavaScript Algorithm and Data Structures Certification, I'll learn the fu
 Once I have the fundamentals down, I'll apply that knowledge by creating algorithms to manipulate strings, factorialize numbers, and even calculate the orbit of the International Space Station.
 <br><br>
 Along the way, I'll also learn two important programming styles or paradigms: Object Oriented Programming (OOP) and Functional Programming (FP).
+
+![javascript-algorithms-and-data-structures_1](https://github.com/AndyNotfound/FreeCodeCampJavaScript/assets/40969170/35db4157-6491-49fd-ad74-1411c9a5d43a)
